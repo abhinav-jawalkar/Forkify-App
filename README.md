@@ -1,0 +1,1 @@
+Forkify is a web application where one can search for a host of recipes. It comes with exciting functionalities and a beautifully designed UI. Mentored by Jonas Schmedtmann from 'The Complete Javascript Course' from Udemy.
